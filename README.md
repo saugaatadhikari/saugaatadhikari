@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Saugat Adhikari</h1>
-<h3 align="center">A passionate frontend developer from Pokhara, Nepal</h3>
+<h1 align="center">
+  <a href="https://saugaat.com.np/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Saugat+Adhikari.">
+  </a>
+</h1>
+<h3 align="center">A passionate Software Engineering Student from Pokhara, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugaatadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="saugaatadhikari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saugaatadhikari" target="blank"><img src="https://img.shields.io/twitter/follow/saugaatadhikari?logo=twitter&style=for-the-badge" alt="saugaatadhikari" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **saugatadhikari87@gmail.com**
 
@@ -33,8 +37,11 @@
    <br />
    <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saugaatadhikari&show_icons=true&locale=en&layout=compact" alt="saugaatadhikari" /></p>
-<br />
-<br />
+### Github Statistics:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugaatadhikari&show_icons=true&locale=en" alt="saugaatadhikari" /></p>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=saugaatadhikari&hide=contribs,prs&show_icons=true&theme=algolia)
+
+
+### Languges I use the most:
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=saugaatadhikari&layout=compact&theme=algolia)](https://github.com/saugaatadhikari)
