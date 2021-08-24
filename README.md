@@ -38,4 +38,4 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia&hide_border=true" alt="saugaatadhikari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia" alt="saugaatadhikari" /></p>
