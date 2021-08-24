@@ -1,9 +1,11 @@
-<h1 align="center">
-  <a href="https://saugaat.com.np/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Saugat+Adhikari.">
-  </a>
-</h1>
-<h3 align="center">A passionate Software Engineering Student from Pokhara, Nepal</h3>
+<h3 align="center">
+  Welcome to Saugat Adhikari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/saugaatadhikari"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=Co-Founder,+Developer+and+Designer+at+Codekavya.;Student+of+Software+Engineering"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugaatadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="saugaatadhikari" /> </p>
 
