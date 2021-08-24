@@ -36,13 +36,15 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 <br/>
 
+### Github Statistics:
+
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=saugaatadhikari&layout=compact&theme=algolia)](https://github.com/saugaatadhikari)
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia" alt="saugaatadhikari" /></p>
 <br/>
 
-### Github Statistics:
+
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=saugaatadhikari&hide=contribs,prs&show_icons=true&theme=algolia)
 <br/>
