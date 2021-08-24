@@ -30,8 +30,10 @@
 ### Languages I use the most:
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 <br/>
+
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=saugaatadhikari&layout=compact&theme=algolia)](https://github.com/saugaatadhikari)
 <br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia" alt="saugaatadhikari" /></p>
 <br/>
 ### Github Statistics:
