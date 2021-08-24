@@ -46,6 +46,9 @@
 <br/>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/Parajulibkrm/Parajulibkrm/issues/2) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
+2. 💪 Opened PR [#2](https://github.com/Sandesh-Sharma/Sandesh-Sharma/pull/2) in [Sandesh-Sharma/Sandesh-Sharma](https://github.com/Sandesh-Sharma/Sandesh-Sharma)
+<!--END_SECTION:activity-->
 
 
 
