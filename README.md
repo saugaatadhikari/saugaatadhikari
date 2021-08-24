@@ -49,11 +49,17 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=saugaatadhikari&custom_title=Saugat%27s%20Contribution%20Graph&theme=react-dark)
 
+<details>
+<summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/arjunadhikary/arjunadhikary/pull/1) in [arjunadhikary/arjunadhikary](https://github.com/arjunadhikary/arjunadhikary)
 2. ❗️ Opened issue [#2](https://github.com/Parajulibkrm/Parajulibkrm/issues/2) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 <!--END_SECTION:activity-->
+
+
+</details>
+
 
 If you wish to contact me please shoot a mail at saugaat@codekavya.com .
 
