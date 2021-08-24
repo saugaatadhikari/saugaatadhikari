@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/saugaatadhikari"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=550&height=45&lines=Co%20Founder,+Developer+and+Designer+at+Codekavya.;Student+of+Software+Engineering"></a>
+  <a href="https://github.com/saugaatadhikari"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co%20Founder,+Developer+and+Designer+at+Codekavya.;Student+of+Software+Engineering."></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugaatadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="saugaatadhikari" /> </p>
