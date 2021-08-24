@@ -48,8 +48,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Parajulibkrm/Parajulibkrm/issues/2) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
-2. 💪 Opened PR [#2](https://github.com/Sandesh-Sharma/Sandesh-Sharma/pull/2) in [Sandesh-Sharma/Sandesh-Sharma](https://github.com/Sandesh-Sharma/Sandesh-Sharma)
+1. 💪 Opened PR [#1](https://github.com/arjunadhikary/arjunadhikary/pull/1) in [arjunadhikary/arjunadhikary](https://github.com/arjunadhikary/arjunadhikary)
+2. ❗️ Opened issue [#2](https://github.com/Parajulibkrm/Parajulibkrm/issues/2) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 <!--END_SECTION:activity-->
 
 
