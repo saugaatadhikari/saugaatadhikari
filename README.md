@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saugaatadhikari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saugaatadhikari" height="30" width="40" /></a>
-<a href="https://fb.com/saugaat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saugaat0" height="30" width="40" /></a>
-<a href="https://instagram.com/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saugaatadhikari" height="30" width="40" /></a>
+<a href="https://twitter.com/saugaatadhikari" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saugaatadhikari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saugaatadhikari" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saugaatadhikari" height="30" width="40" /></a>
+<a href="https://fb.com/saugaat0" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saugaat0" height="30" width="40" /></a>
+<a href="https://instagram.com/saugaatadhikari" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saugaatadhikari" height="30" width="40" /></a>
 </p>
 
 
