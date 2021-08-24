@@ -41,12 +41,14 @@
 
 ### Github Statistics:
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=saugaatadhikari&hide=contribs,prs&show_icons=true&theme=algolia)
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia" alt="saugaatadhikari" /></p>
 <br/>
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=saugaatadhikari&hide=contribs,prs&show_icons=true&theme=algolia)
-<br/>
+
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/arjunadhikary/arjunadhikary/pull/1) in [arjunadhikary/arjunadhikary](https://github.com/arjunadhikary/arjunadhikary)
