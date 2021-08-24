@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/saugaatadhikari" target="blank"><img src="https://img.shields.io/twitter/follow/saugaatadhikari?logo=twitter&style=for-the-badge" alt="saugaatadhikari" /></a>
 <a href="https://discord.com/channels/@me/586876303827927040">
-    <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/604866751901073428"/></a></p>
+    <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/586876303827927040"/></a></p>
 
 - 🌱 I’m currently learning **React JS**
 
