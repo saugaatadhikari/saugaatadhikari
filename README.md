@@ -55,6 +55,6 @@
 2. ❗️ Opened issue [#2](https://github.com/Parajulibkrm/Parajulibkrm/issues/2) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 <!--END_SECTION:activity-->
 
-
+If you wish to contact me please shoot a mail at saugaat@codekavya.com .
 
 
