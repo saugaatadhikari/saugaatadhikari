@@ -47,7 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugaatadhikari&theme=algolia" alt="saugaatadhikari" /></p>
 <br/>
 
-
+![](https://activity-graph.herokuapp.com/graph?username=saugaatadhikari&custom_title=Saugat%27s%20Contribution%20Graph&theme=react-dark)
 
 
 <!--START_SECTION:activity-->
